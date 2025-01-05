@@ -1,1 +1,1 @@
-Fullstack software developer, nextjs|| reactjs|| Typescript|| Firebase||.
+Fullstack software developer,  React|| Django||.
